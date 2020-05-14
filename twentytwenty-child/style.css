@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Twenty Twenty Child
+ Theme URI:    N/A
+ Description:  Twenty Twenty Child Theme
+ Author:       <Your Name>
+ Author URI:   <Your URL>
+ Template:     twentytwenty
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twentytwentychild
+*/
+
+
+/*
+ - Add your CSS below
+ - This CSS will overwrite any corresponding style from the parent theme 
+*/
+
+h1 {
+  color: #ff0000;
+}
