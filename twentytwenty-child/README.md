@@ -1,4 +1,4 @@
-#  (P)WA - (Progressive) Web Application
+#  Wordpress Child Theme
 
 How to set up a  `child theme`  of the `Twenty Twenty`  Wordpress theme.
 
